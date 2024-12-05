@@ -4,12 +4,6 @@
 	"parameters": {
 		"factoryName": {
 			"value": "lakshu-krishiv-df-cicd2024"
-		},
-		"LS_ADLS_accountKey": {
-			"value": ""
-		},
-		"LS_ADLS_properties_typeProperties_url": {
-			"value": "https://adlsbuvana2024.dfs.core.windows.net/"
 		}
 	}
 }
