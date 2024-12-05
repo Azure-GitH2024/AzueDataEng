@@ -1,0 +1,9 @@
+{
+	"name": "Lakshu-Krishiv-DF-CICD2024",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b6a31fa4-309b-4ed2-b210-3d9a03dc030e",
+		"tenantId": "5cc79b93-555f-44dd-87a6-636845da3cd3"
+	}
+}
